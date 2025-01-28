@@ -21,7 +21,7 @@ repository               : "HanchenDengCG/HanchenDengCG.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "head.png"
   name             : "邓瀚辰(Hanchen Deng)"
   pronouns         : # example: "she/her"  
   bio              : "在计算机图形学、游戏客户端和游戏引擎方面有初步学习和实践"
