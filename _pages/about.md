@@ -47,7 +47,6 @@ redirect_from:
 ---
 
 ## 科研论文
-======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
